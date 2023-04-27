@@ -37,7 +37,7 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
 2. Lire les livres du programme de Français (lien vers une liste sur
    Cahier de prépa, car l'info publiée au BO au mois de mai est toujours
-   peu claire puisqu'elle donne aussi le thème de l'année $n-1$,
+   peu claire puisqu'elle donne aussi le thème de l'année *n-1*,
    théoriquement au programme des concours).
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
