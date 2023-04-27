@@ -41,7 +41,7 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
    théoriquement au programme des concours).
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
-   exemples en travaillant sur ce [cahier de calcul](). Mais surtout
+   exemples en travaillant sur ce [cahier de calcul](https://colasbd.github.io/cdc/). Mais surtout
    se reposer : l'important est d'arriver en forme et motivé en
    septembre.
 
