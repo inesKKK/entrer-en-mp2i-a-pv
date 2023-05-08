@@ -1,5 +1,5 @@
 <div>
-<span style="vertical-align: middle;font-weight=bold;font-size:large;">La filière MP2I / MPI / MPI* du lycée</span> <img src="images/logo.png" alt="Paul Valéry" width="200" style="vertical-align: middle;" />
+<h1><span style="vertical-align: middle;">La filière MP2I / MPI / MPI* du lycée</span> <img src="images/logo.png" alt="Paul Valéry" width="200" style="vertical-align: middle;" /></h1>
 </div>
 
 (... site en construction ...)
