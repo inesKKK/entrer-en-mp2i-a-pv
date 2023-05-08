@@ -1,11 +1,10 @@
-La filière MP2I / MPI / MPI* du lycée Paul Valéry
-=====
+<div>
+<span style="vertical-align: middle;font-weight=bold;font-size:large;">La filière MP2I / MPI / MPI* du lycée</span> <img src="images/logo.png" alt="Paul Valéry" width="200" style="vertical-align: middle;" />
+</div>
 
 (... site en construction ...)
 
 La [page du lycée](https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery).
-
-![](images/logo.png)
 
 **Résultats au concours.** La filière MP2I/MPI est jeune: elle a été créée à la
 rentrée de septembre 2021. Les premiers concours de la filière ont
