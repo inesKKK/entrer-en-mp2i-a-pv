@@ -39,13 +39,10 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
 1. Se reposer.
 
-2. Lire les livres du programme de Français (lien vers une liste sur
-   Cahier de prépa, car l'info publiée au BO au mois de mai est toujours
-   peu claire puisqu'elle donne aussi le thème de l'année *n-1*,
-   théoriquement au programme des concours).
+2. Lire les livres du programme de Français. (Nous mettrons un lien dès que le programme sera sorti.)
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
-   exemples en travaillant [un peu les
+   exemple en travaillant [un peu les
    maths](https://colasbd.github.io/cdc/) ou [un peu la
    physique](https://colasbd.github.io/cde/). Si vraiment vous voulez
    travailler un peu l'informatique, faites du `python`
