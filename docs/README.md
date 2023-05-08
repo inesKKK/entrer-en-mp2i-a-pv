@@ -35,7 +35,7 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
 * du travail à la maison (par exemple ce [DM de maths](DM_17.pdf))
 
-## Je suis admis en MP2I à PV (la chance !): que faire cet été?
+## Je suis admis(e) en MP2I à PV (la chance !): que faire cet été?
 
 1. Se reposer.
 
