@@ -27,7 +27,7 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
    (* il y a aussi des colles de langues et de Français!)
    
-   exemple de [programme de colle de physique]()
+   exemple de [programme de colle de physique](semaine_2023-05-15.pdf)
 * un devoir sur table le samedi matin (par exemple ce [DS
   d'informatique](ds3_2022-2023.pdf), inspiré de l'épreuve d'option
   informatique MP CCINP 2021 et de l'épreuve
