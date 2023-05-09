@@ -8,16 +8,19 @@
 rentrée de septembre 2021. Les premiers concours de la filière ont
 lieu en 2023, il n'existe donc pas encore de résultats de concours.
 
-**La filière.** Comme toutes les MP2I, celle de Paul Valéry permet
+##La filière.
+
+Comme toutes les MP2I, celle de Paul Valéry permet
 d'accéder en deuxième année en MPI ou MPI* (ainsi qu'en MP et PSI pour
-ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
+ceux qui auraient pris l'option SI/chimie au second semestre de
+MP2I). Le [détail des horaires](https://prepas.org/?article=42).
 
 ## Une semaine en MP2I à PV c'est...
 
 * des cours passionnants du lundi au vendredi; ici l'emploi du temps du
    premier semestre 22-23:
    
-   ![](Edt_MP2I_22_23_sem1.png)
+   ![](images/Edt_MP2I_22_23_sem1.png)
 
 * deux heures de colles par semaine (khôlles si vous aimez le folklore).
    Une colle, c'est une heure, trois étudiant(e)s, un(e) prof, plein de
@@ -43,9 +46,9 @@ blanc</span>
 
 ## Je suis admis(e) en MP2I à PV (la chance !): que faire cet été?
 
-1. Se reposer.
+1. Se reposer et profiter du soleil.
 
-2. Lire les livres du programme de Français. (Nous mettrons un lien dès que le programme sera sorti.)
+2. Lire les livres du programme de Français-Philosophie. (Nous mettrons un lien dès que le programme sera sorti.)
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant [un peu les
@@ -57,7 +60,7 @@ blanc</span>
    [là](https://www.codingame.com/start) (pas de `C`, et surtout pas
    d'`ocaml` tout(e) seul(e)).
    
-   Mais surtout se reposer : l'important est d'arriver en forme et motivé en
+   Mais surtout se reposer : l'important est d'arriver en forme et motivé(e) en
    septembre.
 
 [site du
