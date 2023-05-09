@@ -4,8 +4,6 @@
 
 (... site en construction ...)
 
-La [page du lycée](https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery).
-
 **Résultats au concours.** La filière MP2I/MPI est jeune: elle a été créée à la
 rentrée de septembre 2021. Les premiers concours de la filière ont
 lieu en 2023, il n'existe donc pas encore de résultats de concours.
@@ -13,10 +11,6 @@ lieu en 2023, il n'existe donc pas encore de résultats de concours.
 **La filière.** Comme toutes les MP2I, celle de Paul Valéry permet
 d'accéder en deuxième année en MPI ou MPI* (ainsi qu'en MP et PSI pour
 ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
-
-<center>
-<img src="images/classe.jpg" alt="concours blanc" width="1000" style="vertical-align: middle;" />
-</center>
 
 ## Une semaine en MP2I à PV c'est...
 
@@ -39,6 +33,14 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
 * du travail à la maison (par exemple ce [DM de maths](DM_17.pdf))
 
+<center>
+<img src="images/classe.jpg" alt="concours blanc 2022-2023"
+width="400" style="vertical-align: middle;" />
+<span>La promo 2022-2023 absorbée par la première épreuve du concours
+blanc</span>
+</center>
+
+
 ## Je suis admis(e) en MP2I à PV (la chance !): que faire cet été?
 
 1. Se reposer.
@@ -58,3 +60,8 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
    Mais surtout se reposer : l'important est d'arriver en forme et motivé en
    septembre.
 
+[site du
+lycée](https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery)
+/ [reportage
+onisep](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en/ma-premiere-annee-en-prepa/prepa-mp2i-mathematiques-physique-ingenierie-et-informatique)
+/ [prepas.org](https://prepas.org/)
