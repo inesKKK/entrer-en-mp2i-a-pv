@@ -16,6 +16,10 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
 ## Une semaine en MP2I à PV c'est...
 
+<center>
+<img src="images/logo.png" alt="concours blanc" width="1000" style="vertical-align: middle;" />
+</center>
+
 * des cours passionnants du lundi au vendredi; ici l'emploi du temps du
    premier semestre 22-23:
    
