@@ -13,7 +13,7 @@ lieu en 2023, il n'existe donc pas encore de résultats de concours.
 Comme toutes les MP2I, celle de Paul Valéry permet
 d'accéder en deuxième année en MPI ou MPI* (ainsi qu'en MP et PSI pour
 ceux qui auraient pris l'option SI/chimie au second semestre de
-MP2I). Le [détail des horaires](https://prepas.org/?article=42).
+MP2I). Le <a href="https://prepas.org/?article=42" target="_blank">détail des horaires</a>.
 
 ## Une semaine en MP2I à PV c'est...
 
@@ -51,20 +51,22 @@ blanc</span>
 2. Lire les livres du programme de Français-Philosophie. (Nous mettrons un lien dès que le programme sera sorti.)
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
-   exemple en travaillant [un peu les
-   maths](https://colasbd.github.io/cdc/) ou [un peu la
-   physique](https://colasbd.github.io/cde/). Si vraiment vous voulez
+   exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
+   maths</a> ou <a href="https://colasbd.github.io/cde/" target="_blank">un peu la
+   physique</a>. Si vraiment vous voulez
    travailler un peu l'informatique, faites du `python`
-   [ici](https://www.france-ioi.org/),
-   [là](https://www.codewars.com/?language=python), ou bien
-   [là](https://www.codingame.com/start) (pas de `C`, et surtout pas
+   <a href="https://www.france-ioi.org/" target="_blank">ici</a>,
+   <a href="https://www.codewars.com/?language=python" target="_blank">là</a>, ou bien
+   <a href="https://www.codingame.com/start" target="_blank">là</a> (pas de `C`, et surtout pas
    d'`ocaml` tout(e) seul(e)).
    
    Mais surtout se reposer : l'important est d'arriver en forme et motivé(e) en
    septembre.
 
-[site du
-lycée](https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery)
-/ [reportage
-onisep](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en/ma-premiere-annee-en-prepa/prepa-mp2i-mathematiques-physique-ingenierie-et-informatique)
-/ [prepas.org](https://prepas.org/)
+<a
+href="https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery"
+target="_blank">site du lycée</a>
+/ <a
+href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en/ma-premiere-annee-en-prepa/prepa-mp2i-mathematiques-physique-ingenierie-et-informatique"
+target="_blank">reportage onisep</a>
+/ <a href="https://prepas.org/" target="_blank">prepas.org</a>
