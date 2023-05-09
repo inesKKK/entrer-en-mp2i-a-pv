@@ -35,7 +35,7 @@ ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
 <center>
 <img src="images/classe.jpg" alt="concours blanc 2022-2023"
-width="400" style="vertical-align: middle;" />
+width="400" style="vertical-align: middle;" /><br />
 <span>La promo 2022-2023 absorbée par la première épreuve du concours
 blanc</span>
 </center>
