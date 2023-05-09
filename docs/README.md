@@ -14,11 +14,11 @@ lieu en 2023, il n'existe donc pas encore de résultats de concours.
 d'accéder en deuxième année en MPI ou MPI* (ainsi qu'en MP et PSI pour
 ceux qui auraient pris l'option SI/chimie au second semestre de MP2I).
 
-## Une semaine en MP2I à PV c'est...
-
 <center>
 <img src="images/classe.jpg" alt="concours blanc" width="1000" style="vertical-align: middle;" />
 </center>
+
+## Une semaine en MP2I à PV c'est...
 
 * des cours passionnants du lundi au vendredi; ici l'emploi du temps du
    premier semestre 22-23:
