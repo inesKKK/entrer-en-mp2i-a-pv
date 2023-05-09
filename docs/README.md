@@ -22,6 +22,9 @@ MP2I). Le <a href="https://prepas.org/?article=42" target="_blank">détail des h
    
    ![](images/Edt_MP2I_22_23_sem1.png)
 
+Remarquez qu'il n'y a pas que des cours magistraux en prépa, mais aussi des
+TD et des TP.
+
 * deux heures de colles par semaine (khôlles si vous aimez le folklore).
    Une colle, c'est une heure, trois étudiant(e)s, un(e) prof, plein de
    sciences*
@@ -36,6 +39,9 @@ MP2I). Le <a href="https://prepas.org/?article=42" target="_blank">détail des h
 
 * du travail à la maison (par exemple ce [DM de maths](DM_17.pdf))
 
+* le tout dans une ambiance conviviale : entraide et bonne humeur
+  conseillée
+  
 <center>
 <img src="images/classe.jpg" alt="concours blanc 2022-2023"
 width="400" style="vertical-align: middle;" /><br />
