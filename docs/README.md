@@ -8,7 +8,7 @@
 rentrée de septembre 2021. Les premiers concours de la filière ont
 lieu en 2023, il n'existe donc pas encore de résultats de concours.
 
-##La filière.
+## La filière.
 
 Comme toutes les MP2I, celle de Paul Valéry permet
 d'accéder en deuxième année en MPI ou MPI* (ainsi qu'en MP et PSI pour
