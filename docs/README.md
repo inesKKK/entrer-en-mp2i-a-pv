@@ -40,7 +40,7 @@ TD et des TP.
 * du travail à la maison (par exemple ce [DM de maths](DM_17.pdf))
 
 * le tout dans une ambiance conviviale : entraide et bonne humeur
-  conseillée
+  conseillées
   
 <center>
 <img src="images/classe.jpg" alt="concours blanc 2022-2023"
