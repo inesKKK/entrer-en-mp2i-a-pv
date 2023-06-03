@@ -82,3 +82,5 @@ target="_blank">site du lycée</a>
 href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en/ma-premiere-annee-en-prepa/prepa-mp2i-mathematiques-physique-ingenierie-et-informatique"
 target="_blank">reportage onisep</a>
 / <a href="https://prepas.org/" target="_blank">prepas.org</a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fineskkk.github.io%2Fentrer-en-mp2i-a-pv%2F&count_bg=%233684C5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
