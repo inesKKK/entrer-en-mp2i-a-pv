@@ -10,8 +10,8 @@ lieu en 2023, il n'existe donc pas encore de résultats de concours.
 
 On commence à recevoir les résultats d'admissibilité de quelques
 concours 2023 :
-* 1 admissible à l'école polytechnique
-* 1 admissible sur dossier à l'ENS Ulm en informatique
+* 1 admissible à l'école polytechnique (6 candidats)
+* 1 admissible sur dossier à l'ENS Ulm en informatique (2 candidats)
 * 1 admissible sur dossier à l'ENS Rennes en mathématiques
 
 ## La filière.
