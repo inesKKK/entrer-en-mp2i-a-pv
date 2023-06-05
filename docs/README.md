@@ -13,6 +13,7 @@ concours 2023 :
 * 1 admissible à l'école polytechnique (6 candidats)
 * 1 admissible sur dossier à l'ENS Ulm en informatique (2 candidats)
 * 1 admissible sur dossier à l'ENS Rennes en mathématiques
+* 1 admissible au BECEAS (1 candidat)
 
 ## La filière.
 
