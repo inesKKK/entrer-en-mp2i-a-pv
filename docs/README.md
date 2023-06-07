@@ -19,7 +19,8 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
 * MPI* : 6 admissibles Mines-Ponts (et MT), 5 admissibles
   Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
   pas inscrit) / 8 admissibles CCINP (9 candidats)
-* MPI : 7 admissibles CCINP (16 candidats)
+* MPI : 2 admissibles Mines-Telecom (et MTS), 7 admissibles
+  Mines-Telecom spécifique / 7 admissibles CCINP (16 candidats)
 
 ## La filière.
 
