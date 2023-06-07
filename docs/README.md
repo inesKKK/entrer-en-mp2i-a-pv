@@ -18,7 +18,8 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
 * 1 admissible au BECEAS (1 candidat)
 * MPI* : 6 admissibles Mines-Ponts (et MT), 5 admissibles
   Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
-  pas inscrit)
+  pas inscrit) / 8 admissibles CCINP (9 candidats)
+* MPI : 7 admissibles CCINP (16 candidats)
 
 ## La filière.
 
