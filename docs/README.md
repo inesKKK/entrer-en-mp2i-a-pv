@@ -16,10 +16,10 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
 * 1 admissible sur dossier à l'ENS Ulm en informatique (2 candidats)
 * 1 admissible sur dossier à l'ENS Rennes en mathématiques
 * 1 admissible au BECEAS (1 candidat)
-* MPI* : 6 admissibles Mines-Ponts (et MT), 5 admissibles
+* MPI* : 6 admissibles Mines-Ponts (et MT) + 5 admissibles
   Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
   pas inscrit) / 8 admissibles CCINP (9 candidats)
-* MPI : 2 admissibles Mines-Telecom (et MTS), 7 admissibles
+* MPI : 2 admissibles Mines-Telecom (et MTS) + 7 admissibles
   Mines-Telecom spécifique / 7 admissibles CCINP
 
 ## La filière.
