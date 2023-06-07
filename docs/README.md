@@ -10,9 +10,15 @@ lieu en 2023, il n'existe donc pas encore de résultats de concours.
 
 On commence à recevoir les résultats d'admissibilité de quelques
 concours 2023 :
+
+effectif 2022-2023 : 11 MPI* / 16 MPI
+
 * 1 admissible sur dossier à l'ENS Ulm en informatique (2 candidats)
 * 1 admissible sur dossier à l'ENS Rennes en mathématiques
 * 1 admissible au BECEAS (1 candidat)
+* MPI* : 6 admissibles Mines-Ponts (et MT), 5 admissibles
+  Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
+  pas inscrit)
 
 ## La filière.
 
