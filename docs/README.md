@@ -72,7 +72,12 @@ blanc</span>
 
 1. Se reposer et profiter du soleil.
 
-2. Lire les livres du programme de Français-Philosophie. (Nous mettrons un lien dès que le programme sera sorti.)
+2. Lire les livres du programme de Français-Philosophie. Au programme
+   en 2023-2024:
+   * _Lorenzaccio_ d'A. de Musset
+   * _Les liaisons dangereuses_ de Ch. de Laclos
+   * _Vérité et politique_ (sortie prévue en juillet) et « Du mensonge
+     en politique » dans _Du mensonge à la violence_ de H. Arendt
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
