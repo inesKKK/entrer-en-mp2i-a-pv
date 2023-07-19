@@ -14,7 +14,7 @@ concours 2023 :
 effectif 2022-2023 : 11 MPI* / 16 MPI
 
 * 1 admis sur dossier à l'ENS Rennes en mathématiques
-* 1 admissible sur dossier à l'ENS Ulm en informatique (2 candidats)
+* 1 admis sur dossier à l'ENS Ulm en informatique
 * 1 admissible sur dossier à l'ENS Paris Saclay en informatique
 * 1 admissible au BECEAS (1 candidat)
 * MPI* : 6 admissibles Mines-Ponts (et MT) + 5 admissibles
