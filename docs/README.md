@@ -26,6 +26,7 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
   Mines-Telecom spécifique / 7 admissibles CCINP / 2 admissibles ENSEA
   (6 candidats)
 
+
 ## La filière.
 
 Comme toutes les MP2I, celle de Paul Valéry permet
