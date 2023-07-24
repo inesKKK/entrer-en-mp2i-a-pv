@@ -73,7 +73,7 @@ blanc</span>
 
 1. Se reposer et profiter du soleil.
 
-2. Lire les livres du programme de Français-Philosophie. Au programme
+2. Lire [les livres du programme de Français-Philosophie](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2023/Hebdo28/ESRS2317934A). Au programme
    en 2023-2024:
    * _Lorenzaccio_ d'A. de Musset
    * _Les liaisons dangereuses_ de Ch. de Laclos
