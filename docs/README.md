@@ -8,23 +8,29 @@
 rentrée de septembre 2021. Les premiers concours de la filière ont
 lieu en 2023, il n'existe donc pas encore de résultats de concours.
 
-On commence à recevoir les résultats d'admissibilité de quelques
-concours 2023 :
+Le processus d'attribution des places n'est pas encore terminé pour
+les concours 2023, mais nous pouvons déjà annoncer quelques résultats :
 
 effectif 2022-2023 : 11 MPI* / 16 MPI
 
-* 1 admis sur dossier à l'ENS Rennes en mathématiques
-* 1 admis sur dossier à l'ENS Ulm en informatique
-* 1 admissible sur dossier à l'ENS Paris Saclay en informatique
-* 1 admissible au BECEAS (1 candidat)
-* MPI* : 6 admissibles Mines-Ponts (et MT) + 5 admissibles
-  Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
-  pas inscrit) / 8 admissibles CCINP (9 candidats) / Centrales : 1
-  admissible Lyon, en-dessous globalement entre 66% et 100% des
-  inscrits admissibles
-* MPI : 2 admissibles Mines-Telecom (et MTS) + 7 admissibles
-  Mines-Telecom spécifique / 7 admissibles CCINP / 2 admissibles ENSEA
-  (6 candidats)
+* MPI\*
+  * 1 admis sur dossier à l'ENS Rennes en mathématiques
+  * 1 admis sur dossier à l'ENS Ulm en informatique
+  * des admissions aux écoles suivantes : Telecom Paris, Centrale
+    Lille, ensimag, Mines de Saint Etienne
+  * 6 admissibles Mines-Ponts (et MT) + 5 admissibles
+    Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
+   pas inscrit) / 8 admissibles CCINP (9 candidats) / Centrales : 1
+   admissible Lyon, en-dessous globalement entre 66% et 100% des
+   inscrits admissibles
+
+* MPI
+  * des admis aux écoles suivantes : ensai, Clermont INP ISIMA,
+    Polytech Sorbonne, esilv, efrei
+  * 1 admissible au BECEAS (1 candidat)
+  * 2 admissibles Mines-Telecom (et MTS) + 7 admissibles
+    Mines-Telecom spécifique / 7 admissibles CCINP / 2 admissibles ENSEA
+   (6 candidats)
 
 
 ## La filière.
