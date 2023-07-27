@@ -16,7 +16,7 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
 * MPI\*
   * 1 admis sur dossier à l'ENS Rennes en mathématiques
   * 1 admis sur dossier à l'ENS Ulm en informatique
-  * des admissions aux écoles suivantes : Telecom Paris, Centrale
+  * des admis aux écoles suivantes : Telecom Paris, Centrale
     Lille, ensimag, Mines de Saint Etienne
   * 6 admissibles Mines-Ponts (et MT) + 5 admissibles
     Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
