@@ -24,7 +24,12 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
     <img
   src="https://www.fondation-mines-telecom.org/wp-content/uploads/2018/10/Mines_Saint_Etienne_IMT_RVB-300x300.png"
   alt="Mines de Saint-Etienne" height="80" style="vertical-align:
-  middle;" /></p>
+  middle;" />
+      <img
+  src="https://www.imt-mines-ales.fr/themes/custom/boots/assets/images/logo.svg"
+  alt="IMT Mines d'Alès" height="80" style="vertical-align:
+  middle;" />
+  </p>
   
   * 6 admissibles Mines-Ponts (et MT) + 5 admissibles
     Mines-Telecom (dont 1 qui est au-dessus de la barre MP mais ne s'est
