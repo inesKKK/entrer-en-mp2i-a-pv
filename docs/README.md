@@ -35,7 +35,12 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
 * MPI
   * des admis aux écoles suivantes :
   <p style="text-align: center;">
-      <img src="https://ensai.fr/wp-content/themes/ensai/ensai_img/logo.png" alt="ensai" height="80" style="vertical-align: middle;" />
+      <img
+  src="https://ensai.fr/wp-content/themes/ensai/ensai_img/logo.png"
+  alt="ensai" height="80" style="vertical-align: middle;" />
+        <img
+  src="https://www.telecom-st-etienne.fr/core/views/29e7396b6b/asset/images/logo.svg"
+  alt="Telecom Saint-Étienne" height="80" style="vertical-align: middle;" />
       <img
     src="https://www.clermont-auvergne-inp.fr/wp-content/uploads/2021/12/logo_isima.png"
     alt="Clermont INP ISIMA" height="80" style="vertical-align: middle;" />
