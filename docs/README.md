@@ -14,10 +14,15 @@ les concours 2023, mais nous pouvons déjà annoncer quelques résultats :
 effectif 2022-2023 : 11 MPI* / 16 MPI
 
 * MPI\*
-  * 1 admis sur dossier à l'ENS Rennes en mathématiques
-  * 1 admis sur dossier à l'ENS Ulm en informatique
-  * des admis aux écoles suivantes :
+  * des admis aux écoles suivantes (ENS sur dossier: Ulm en
+  informatique, Rennes en mathématiques) :
   <p style="text-align: center;">
+  <img
+  src="https://www.ens.psl.eu/sites/default/files/inline-images/logo.jpg"
+  alt="ENS Paris" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://edu.ens-rennes.fr/pluginfile.php/1/core_admin/logocompact/300x300/1647609317/ENS%20Rennes%20%281%29.png"
+  alt="ENS Rennes" height="80" style="vertical-align: middle;" />
       <img src="https://www.fondation-mines-telecom.org/wp-content/uploads/2019/06/Logo-T%C3%A9l%C3%A9com-Paris-IP-Paris.png" alt="Telecom Paris" height="80" style="vertical-align: middle;" />
       <img src="https://centralelille.fr/wp-content/uploads/2019/07/Centrale-Lille.png" alt="Centrale Lille" height="80" style="vertical-align: middle;" />
     <img src="https://ensimag.grenoble-inp.fr/uas/alias2/LOGO/Grenoble+INP+-+Ensimag+%28couleur%2C+RVB%2C+120px%29.png" alt="ensimag" height="80" style="vertical-align: middle;" />
