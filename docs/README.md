@@ -118,7 +118,7 @@ blanc</span>
    * _Vérité et politique_ (sortie prévue en juillet) et « Du mensonge
      en politique » dans _Du mensonge à la violence_ de H. Arendt
      
-     Les [conseils de l'enseignant]([https://cahier-de-prepa.fr/mp2i-pv/download?id=1149).
+     Les <a href="https://cahier-de-prepa.fr/mp2i-pv/download?id=1149">conseils de l'enseignant</a>.
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
