@@ -32,7 +32,7 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
   middle;" />
   <img
   src="https://www.enseeiht.fr/error/resources/img/logo-enseeiht.png" alt="enseeiht" height="65" style="vertical-align:
-  middle;" background-color="#6DB3F2" />
+  middle;" />
       <img
   src="https://www.imt-mines-ales.fr/themes/custom/boots/assets/images/logo.svg"
   alt="IMT Mines d'Alès" height="80" style="vertical-align:
