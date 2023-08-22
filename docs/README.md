@@ -30,6 +30,9 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
   src="https://www.fondation-mines-telecom.org/wp-content/uploads/2018/10/Mines_Saint_Etienne_IMT_RVB-300x300.png"
   alt="Mines de Saint-Etienne" height="80" style="vertical-align:
   middle;" />
+  <img
+  src="https://www.enseeiht.fr/error/resources/img/logo-enseeiht.png" alt="enseeiht" height="65" style="vertical-align:
+  middle;" background-color="#6DB3F2" />
       <img
   src="https://www.imt-mines-ales.fr/themes/custom/boots/assets/images/logo.svg"
   alt="IMT Mines d'Alès" height="80" style="vertical-align:
