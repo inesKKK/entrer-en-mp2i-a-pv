@@ -62,7 +62,7 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
       <img src="https://www.efrei.fr/wp-content/uploads/2022/02/LOGO_EFREI-PRINT_EFREI-WEB-450x147.png" alt="efrei" height="80" style="vertical-align: middle;" />
   </p>
 
-* 1 admissible au BECEAS (1 candidat)
+  * 1 admissible au BECEAS (1 candidat)
   * 2 admissibles Mines-Telecom (et MTS) + 7 admissibles
     Mines-Telecom spécifique / 7 admissibles CCINP / 2 admissibles ENSEA
    (6 candidats)
