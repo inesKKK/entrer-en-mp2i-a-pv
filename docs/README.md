@@ -14,8 +14,7 @@ les concours 2023, mais nous pouvons déjà annoncer quelques résultats :
 effectif 2022-2023 : 11 MPI* / 16 MPI
 
 * MPI\*
-  * des admis aux écoles suivantes (ENS sur dossier: Ulm en
-  informatique, Rennes en mathématiques) :
+  * des admis aux écoles suivantes :
   <p style="text-align: center;">
   <img
   src="https://www.ens.psl.eu/sites/default/files/inline-images/logo.jpg"
