@@ -44,6 +44,11 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
    pas inscrit) / 8 admissibles CCINP (9 candidats) / Centrales : 1
    admissible Lyon, en-dessous globalement entre 66% et 100% des
    inscrits admissibles
+   
+   * bilan des intégrations : 1 ENS Ulm informatique sur dossier, 1
+    ENS Rennes mathématiques sur dossier, 2 Telecom Paris, 1 ensimag,
+    1 Centrale Lille, 1 ENSEEIHT, 1 Mines Saint Etienne, 1 Mines Alès,
+    1 élève qui a choisi d'aller en L3 Math et 1 élève qui a choisi de faire 5/2
 
 * MPI
   * des admis aux écoles suivantes :
@@ -66,7 +71,9 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
   * 2 admissibles Mines-Telecom (et MTS) + 7 admissibles
     Mines-Telecom spécifique / 7 admissibles CCINP / 2 admissibles ENSEA
    (6 candidats)
-
+   * bilan des intégrations : 1 ENSAI, 3 ISIMA, 1 Telecom Saint
+   Etienne, 1 Polytech Sorbonne, 3 ESILV, 1 EFREI, 1 élève qui a
+   choisi d'aller en L2 math et 3 élèves qui ont choisi de faire 5/2
 
 ## La filière.
 
