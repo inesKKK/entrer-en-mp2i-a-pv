@@ -49,7 +49,7 @@ effectif 2022-2023 : 11 MPI* / 16 MPI
     1 Centrale Lille, 1 ENSEEIHT, 1 Mines Saint Etienne, 1 Mines Alès,
     1 élève qui a choisi d'aller en L3 Math et 1 élève qui a choisi de
     faire 5/2 (à noter qu'un MP2I 2021-2022 est allé en MPI\* dans un
-    aurte établissement francilien et a intégré l'ENSTA)
+    autre établissement francilien et a intégré l'ENSTA)
 
 * MPI
   * des admis aux écoles suivantes :
