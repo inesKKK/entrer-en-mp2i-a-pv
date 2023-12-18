@@ -2,14 +2,7 @@
 <h1><span style="vertical-align: middle;">La filière MP2I / MPI / MPI* du lycée</span> <img src="images/logo.png" alt="Paul Valéry" width="200" style="vertical-align: middle;" /></h1>
 </div>
 
-(... site en construction ...)
-
-**Résultats au concours.** La filière MP2I/MPI est jeune: elle a été créée à la
-rentrée de septembre 2021. Les premiers concours de la filière ont
-lieu en 2023, il n'existe donc pas encore de résultats de concours.
-
-Le processus d'attribution des places n'est pas encore terminé pour
-les concours 2023, mais nous pouvons déjà annoncer quelques résultats :
+**Résultats au concours.**
 
 effectif 2022-2023 : 11 MPI* / 16 MPI
 
