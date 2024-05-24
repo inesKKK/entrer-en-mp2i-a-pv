@@ -6,7 +6,7 @@
 
 [années pécédentes](resultats.md)
 
-effectif 2023-2024 : ?? MPI* / ?? MPI
+effectif 2023-2024 : 10 MPI* / 25 MPI
 
 * MPI\*
 
