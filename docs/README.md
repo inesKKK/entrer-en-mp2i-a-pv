@@ -8,7 +8,8 @@
 
 effectif 2023-2024 : 10 MPI* / 25 MPI
 
-* MPI\*
+* MPI\* :
+  * admissibles : 1 ENS Rennes
 
 * MPI :
   * 1 admis à Telecom Nancy en apprentissage
