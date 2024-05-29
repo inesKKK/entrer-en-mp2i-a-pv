@@ -8,6 +8,8 @@
 
 effectif 2023-2024 : 10 MPI* / 25 MPI
 
+(résultats mis au fur et à mesure des arrivées)
+
 * MPI\* :
   * admissibles : 1 ENS Rennes
 
