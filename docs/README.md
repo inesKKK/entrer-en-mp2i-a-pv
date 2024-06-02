@@ -85,6 +85,11 @@ Individu et communauté
    
    Mais surtout se reposer : l'important est d'arriver en forme et motivé(e) en
    septembre.
+   
+   <br /><br />
+   À noter qu'il faudra aussi s'inscrire au lycée à un moment
+   donné. Un lien sera mis ici-même sur la page correspondante du
+   lycée quand elle existera.
 
 <a
 href="https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery"
