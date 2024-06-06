@@ -11,7 +11,7 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
 (résultats mis au fur et à mesure des arrivées)
 
 * MPI\* :
-  * admissibles : 1 ENS Rennes, 100% CCINP
+  * admissibles : 1 ENS Rennes, 1 ENS Rennes en math sur dossier, 100% CCINP
 
 * MPI :
   * admissibles : 66% CCINP
