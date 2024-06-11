@@ -11,10 +11,11 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
 (résultats mis au fur et à mesure des arrivées)
 
 * MPI\* :
-  * admissibles : 1 ENS Rennes, 1 ENS Rennes en math sur dossier, 100% CCINP
+  * admissibles : 1 ENS Rennes, 1 ENS Rennes en math sur dossier, 100%
+    CCINP, 40% CCMP, 100% MT
 
 * MPI :
-  * admissibles : 60% CCINP
+  * admissibles : 60% CCINP, 43% MT
   * admissions en alternance : 1 Telecom Nancy, 1 Telecom SudParis
 
 ## La filière.
