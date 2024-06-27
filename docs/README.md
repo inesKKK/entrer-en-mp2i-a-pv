@@ -73,7 +73,9 @@ Individu et communauté
     * Spinoza, _Traité théologico-politique_, sections 16 à 20.
     * Edith Wharton, _Le temps de l’innocence_
      
-     Les <a href="https://cahier-de-prepa.fr/mp2i-pv/download?id=1149">conseils de l'enseignant</a>.
+     Les <a
+     href="https://cahier-de-prepa.fr/mp2i-pv/download?id=1859">conseils
+     de l'enseignant</a> (mis à jour pour 2024-2025).
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
