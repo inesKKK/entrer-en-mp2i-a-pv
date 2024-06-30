@@ -91,9 +91,8 @@ Individu et communauté
    septembre.
    
    <br /><br />
-   À noter qu'il faudra aussi s'inscrire au lycée à un moment
-   donné. Un lien sera mis ici-même sur la page correspondante du
-   lycée quand elle existera.
+   À noter qu'il faudra aussi s'[inscrire au lycée](https://pia.ac-paris.fr/serail/jcms/s2_3459337/fr/inscriptions-et-reinscriptions-en-cpge) à un moment
+   donné.
 
 <a
 href="https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery"
