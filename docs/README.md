@@ -17,6 +17,7 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
 * MPI :
   * admissibles : 60% CCINP, 43% MT, Centrale : SupOptique 1/5,
     Polytech 70%
+  * 1 admis sur le BECEAS
   * admissions en alternance : 1 Telecom Nancy, 1 Telecom SudParis
 
 ## La filière.
