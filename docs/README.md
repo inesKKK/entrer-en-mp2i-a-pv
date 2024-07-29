@@ -78,7 +78,7 @@ Individu et communauté
      href="https://cahier-de-prepa.fr/mp2i-pv/download?id=1859">conseils
      de l'enseignant</a> (mis à jour pour 2024-2025).
    
-4. Si vous y tenez, faire quelques révisions du programme de lycée, par
+3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
    maths</a> ou <a href="https://colasbd.github.io/cde/" target="_blank">un peu la
    physique</a>. Si vraiment vous voulez
