@@ -4,7 +4,7 @@
 
 **Résultats au concours.**
 
-[années pécédentes](resultats.md)
+[années précédentes](resultats.md)
 
 effectif 2023-2024 : 10 MPI* / 25 MPI
 
@@ -66,7 +66,7 @@ blanc</span>
 
 1. Se reposer et profiter du soleil.
 
-2. Lire [les livres du programme de Français-Philosophie](). Au programme
+2. Lire <a href="https://www.education.gouv.fr/bo/2024/Hebdo29/ESRS2418417A">les livres du programme de Français-Philosophie</a>. Au programme
    en 2024-2025 (attention : le programme ne contient que le thème 2):
 Individu et communauté
 
@@ -78,7 +78,7 @@ Individu et communauté
      href="https://cahier-de-prepa.fr/mp2i-pv/download?id=1859">conseils
      de l'enseignant</a> (mis à jour pour 2024-2025).
    
-3. Si vous y tenez, faire quelques révisions du programme de lycée, par
+4. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
    maths</a> ou <a href="https://colasbd.github.io/cde/" target="_blank">un peu la
    physique</a>. Si vraiment vous voulez
