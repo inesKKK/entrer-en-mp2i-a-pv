@@ -4,7 +4,7 @@
 
 **Résultats au concours.**
 
-[années pécédentes](resultats.md)
+[années précédentes](resultats.md)
 
 effectif 2023-2024 : 10 MPI* / 25 MPI
 
@@ -90,7 +90,7 @@ blanc</span>
 
 1. Se reposer et profiter du soleil.
 
-2. Lire [les livres du programme de Français-Philosophie](). Au programme
+2. Lire <a href="https://www.education.gouv.fr/bo/2024/Hebdo29/ESRS2418417A">les livres du programme de Français-Philosophie</a>. Au programme
    en 2024-2025 (attention : le programme ne contient que le thème 2):
 Individu et communauté
 
