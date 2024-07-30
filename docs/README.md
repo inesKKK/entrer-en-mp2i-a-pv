@@ -11,14 +11,38 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
 (résultats mis au fur et à mesure des arrivées)
 
 * MPI\* :
-  * admissibles : 1 ENS Rennes, 1 ENS Rennes en math sur dossier, 100%
-    CCINP, 40% CCMP, 100% MT, Centrale : CS 1/1, Lyon 2/2, Lille et Nantes 2/3
+  * admissibles : 1 ENS Rennes, 1 ENS Rennes en math sur dossier, 1
+    ENS Rennes info sur dossier, 100%
+    CCINP, 40% CCMP, 100% MT, Centrale : CS 1/1, Lyon 2/2, Lille et
+    Nantes 2/3
+  * des admis à (incomplet) :<br />
+  <img
+  src="https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo.png"
+  alt="CentraleSupelec" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://centralelille.fr/wp-content/uploads/2019/07/Centrale-Lille.png"
+  alt="Centrale Lille" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
+  alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
 
 * MPI :
   * admissibles : 60% CCINP, 43% MT, Centrale : SupOptique 1/5,
     Polytech 70%
   * 1 admis sur le BECEAS
   * admissions en alternance : 1 Telecom Nancy, 1 Telecom SudParis
+  * des admis à (incomplet) :<br />
+  <img
+  src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
+  alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
+<img
+  src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
+  alt="CY TECH Cergy-Pau - Informatique" height="80"
+  style="vertical-align: middle;" />
+  <img
+  src="https://www.ensea.fr/sites/all/themes/custom/customer/logo.png"
+  alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
+  <img src="https://www.telecom-valley.fr/wp-content/uploads/2023/04/Polytech-Nice-Sophia_annuaire.jpg" alt="Polytech Nice-Sophia - Informatique" height="80" style="vertical-align: middle;" />
 
 ## La filière.
 
