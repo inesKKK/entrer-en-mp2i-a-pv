@@ -42,7 +42,14 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   <img
   src="https://www.ensea.fr/sites/all/themes/custom/customer/logo.png"
   alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
-  <img src="https://www.telecom-valley.fr/wp-content/uploads/2023/04/Polytech-Nice-Sophia_annuaire.jpg" alt="Polytech Nice-Sophia - Informatique" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://www.telecom-valley.fr/wp-content/uploads/2023/04/Polytech-Nice-Sophia_annuaire.jpg"
+  alt="Polytech Nice-Sophia - Informatique" height="80"
+  style="vertical-align: middle;" />
+  <img
+  src="https://polytech.univ-lyon1.fr/uas/polytech/LOGO/UDL_logo_blanc-01+%282%29.png"
+  alt="Polytech Lyon informatique" height="80"
+  style="vertical-align: middle;" />
 
 ## La filière.
 
