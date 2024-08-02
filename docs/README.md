@@ -25,6 +25,7 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   <img
   src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
   alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
+    <img src="https://ensimag.grenoble-inp.fr/uas/alias2/LOGO/Grenoble+INP+-+Ensimag+%28couleur%2C+RVB%2C+120px%29.png" alt="ensimag" height="80" style="vertical-align: middle;" />
 
 * MPI :
   * admissibles : 60% CCINP, 43% MT, Centrale : SupOptique 1/5,
@@ -35,6 +36,11 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   <img
   src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
   alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
+<img
+  src="https://www.ensiie.fr/wp-content/uploads/2018/04/ENSIIE01.png"
+  alt="ENSIIE" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="80" style="vertical-align: middle;" />
 <img
   src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
   alt="CY TECH Cergy-Pau - Informatique" height="80"
