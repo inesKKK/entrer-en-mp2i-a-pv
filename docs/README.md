@@ -40,7 +40,7 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   src="https://www.ensiie.fr/wp-content/uploads/2018/04/ENSIIE01.png"
   alt="ENSIIE" height="80" style="vertical-align: middle;" />
   <img
-  src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="80" style="vertical-align: middle;" />
+  src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="70" style="vertical-align: middle;" />
 <img
   src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
   alt="CY TECH Cergy-Pau - Informatique" height="80"
