@@ -60,6 +60,10 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   src="https://polytech.univ-lyon1.fr/uas/polytech/LOGO/UDL_logo_blanc-01+%282%29.png"
   alt="Polytech Lyon informatique" height="80"
   style="vertical-align: middle;" />
+  <img
+  src="https://isup.sorbonne-universite.fr/sites/default/files/styles/930xauto/public/media/2021-04/logo-ISUP.png"
+  alt="ISUP" height="80"
+  style="vertical-align: middle;" />
 
 ## La filière.
 
