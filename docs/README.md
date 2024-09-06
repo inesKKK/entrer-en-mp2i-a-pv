@@ -42,6 +42,9 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   <img
   src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="70" style="vertical-align: middle;" />
 <img
+  src="https://phelma.grenoble-inp.fr/uas/alias22/LOGO/Grenoble+INP+-+Phelma+%28couleur%2C+RVB%2C+120px%29.png" alt="phelma"
+ height="70" style="vertical-align: middle;" />
+<img
   src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
   alt="CY TECH Cergy-Pau - Informatique" height="80"
   style="vertical-align: middle;" />
@@ -63,6 +66,9 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   <img
   src="https://isup.sorbonne-universite.fr/sites/default/files/styles/930xauto/public/media/2021-04/logo-ISUP.png"
   alt="ISUP" height="80"
+  style="vertical-align: middle;" />
+  <img
+  src="https://www.epita.fr/wp-content/themes/epita-refonte-theme/assets/images/logo-epita.svg" alt="epita" height="80"
   style="vertical-align: middle;" />
 
 ## La filière.
