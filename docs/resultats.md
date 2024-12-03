@@ -11,8 +11,14 @@ Résultats des années antérieures
   src="https://edu.ens-rennes.fr/pluginfile.php/1/core_admin/logocompact/300x300/1647609317/ENS%20Rennes%20%281%29.png"
   alt="ENS Rennes" height="80" style="vertical-align: middle;" />
       <img src="https://www.fondation-mines-telecom.org/wp-content/uploads/2019/06/Logo-T%C3%A9l%C3%A9com-Paris-IP-Paris.png" alt="Telecom Paris" height="80" style="vertical-align: middle;" />
-      <img src="https://centralelille.fr/wp-content/uploads/2019/07/Centrale-Lille.png" alt="Centrale Lille" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo.png"
+  alt="CentraleSupelec" height="80" style="vertical-align: middle;" />
+<img src="https://centralelille.fr/wp-content/uploads/2019/07/Centrale-Lille.png" alt="Centrale Lille" height="80" style="vertical-align: middle;" />
     <img src="https://ensimag.grenoble-inp.fr/uas/alias2/LOGO/Grenoble+INP+-+Ensimag+%28couleur%2C+RVB%2C+120px%29.png" alt="ensimag" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
+  alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
     <img
   src="https://www.fondation-mines-telecom.org/wp-content/uploads/2018/10/Mines_Saint_Etienne_IMT_RVB-300x300.png"
   alt="Mines de Saint-Etienne" height="80" style="vertical-align:
@@ -24,11 +30,18 @@ Résultats des années antérieures
   src="https://www.imt-mines-ales.fr/themes/custom/boots/assets/images/logo.svg"
   alt="IMT Mines d'Alès" height="80" style="vertical-align:
   middle;" />
-  </p>
+  <img
+  src="https://www.ensea.fr/sites/all/themes/custom/customer/logo.png"
+  alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
+
+</p>
 
 ## MPI
 
  des admis aux écoles suivantes :
+  <img
+  src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
+  alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
   <p style="text-align: center;">
       <img
   src="https://ensai.fr/wp-content/themes/ensai/ensai_img/logo.png"
@@ -42,7 +55,68 @@ Résultats des années antérieures
       <img src="https://sciences.sorbonne-universite.fr/sites/default/files/media/2020-03/Logo_Polytech_Sorbonne_1920x660.png" alt="Polytech Sorbonne" height="80" style="vertical-align: middle;" />
       <img src="https://www.esilv.fr/ecole-ingenieur/wp-content/uploads/2020/09/logo-esilv-ecole-ingenieur.png" alt="esilv" height="80" style="vertical-align: middle;" />
       <img src="https://www.efrei.fr/wp-content/uploads/2022/02/LOGO_EFREI-PRINT_EFREI-WEB-450x147.png" alt="efrei" height="80" style="vertical-align: middle;" />
+<img
+  src="https://www.ensiie.fr/wp-content/uploads/2018/04/ENSIIE01.png"
+  alt="ENSIIE" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="70" style="vertical-align: middle;" />
+<img
+  src="https://phelma.grenoble-inp.fr/uas/alias22/LOGO/Grenoble+INP+-+Phelma+%28couleur%2C+RVB%2C+120px%29.png" alt="phelma"
+ height="70" style="vertical-align: middle;" />
+<img
+  src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
+  alt="CY TECH Cergy-Pau - Informatique" height="80"
+  style="vertical-align: middle;" />
+  <img
+  src="https://www.ensea.fr/sites/all/themes/custom/customer/logo.png"
+  alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
+  <img
+  src="https://www.telecom-valley.fr/wp-content/uploads/2023/04/Polytech-Nice-Sophia_annuaire.jpg"
+  alt="Polytech Nice-Sophia - Informatique" height="80"
+  style="vertical-align: middle;" />
+  <img
+  src="https://www.insa-lyon.fr/sites/all/themes/insa/logo.png"
+  alt="INSA Lyon" height="80"
+  style="vertical-align: middle;" />
+  <img
+  src="https://isup.sorbonne-universite.fr/sites/default/files/styles/930xauto/public/media/2021-04/logo-ISUP.png"
+  alt="ISUP" height="80"
+  style="vertical-align: middle;" />
+  <img
+  src="https://www.epita.fr/wp-content/themes/epita-refonte-theme/assets/images/logo-epita.svg" alt="epita" height="80"
+  style="vertical-align: middle;" />
   </p>
+
+
+## 2024
+
+effectif 2023-2024 : 10 MPI* / 25 MPI
+
+### MPI\*
+
+* admissibles : 1 ENS Rennes, 1 ENS Rennes en math sur dossier, 1
+    ENS Rennes info sur dossier, 100%
+    CCINP, 40% CCMP, 100% MT, Centrale : CS 1/1, Lyon 2/2, Lille et
+    Nantes 2/3
+
+* bilan des intégrations : 1 CentraleSupelec,  1 Centrale Lille, 1
+  Telecom SudParis, 1 ensimag, 1 ENSEA, 1 élève a choisi la
+  licence math-info de Paris Dauphine, 1 élève a choisi le magistère
+  de math de Paris Saclay et 3 élèves ont fait le choix de la 5/2
+  (dont 1 dans un autre établissement parisien)
+
+### MPI :
+
+* admissibles : 60% CCINP, 43% MT, Centrale : SupOptique 1/5,
+    Polytech 70%
+
+* bilan des intégrations : 2 Telecom SudParis (dont 1 en
+  apprentissage), 2 Telecom Nancy en 
+  apprentissage, 1 Phelma, 1 IMAC, 1
+  ENSIEE, 2 ENSEIRB-Matmeca, 1 CY TECH, 1 INSA Lyon, 1 epita, 1
+  Polytech Nice, 1 ENSEA, 1 ISUP, 1 élève a choisi la licence d'informatique
+  de Sorbonne Univ, 2 celle de mathématique et 4 élèves ont fait le
+  choix de la 5/2
 
 
 ## 2023
