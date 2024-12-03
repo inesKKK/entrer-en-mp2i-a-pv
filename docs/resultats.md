@@ -56,7 +56,7 @@ Résultats des années antérieures
       <img src="https://www.esilv.fr/ecole-ingenieur/wp-content/uploads/2020/09/logo-esilv-ecole-ingenieur.png" alt="esilv" height="80" style="vertical-align: middle;" />
       <img src="https://www.efrei.fr/wp-content/uploads/2022/02/LOGO_EFREI-PRINT_EFREI-WEB-450x147.png" alt="efrei" height="80" style="vertical-align: middle;" />
 <img
-  src="https://www.ensiie.fr/wp-content/uploads/2018/04/ENSIIE01.png"
+  src="https://www.ensiie.fr/themes/custom/ensiie/logo.svg"
   alt="ENSIIE" height="80" style="vertical-align: middle;" />
   <img
   src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="70" style="vertical-align: middle;" />
