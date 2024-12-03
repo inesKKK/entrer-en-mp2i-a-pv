@@ -31,7 +31,7 @@ Résultats des années antérieures
   alt="IMT Mines d'Alès" height="80" style="vertical-align:
   middle;" />
   <img
-  src="https://www.ensea.fr/sites/all/themes/custom/customer/logo.png"
+  src="https://www.ensea.fr/themes/project/assets/img/svg/ENSEA.svg"
   alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
 
 </p>
@@ -57,7 +57,7 @@ Résultats des années antérieures
       <img src="https://www.efrei.fr/wp-content/uploads/2022/02/LOGO_EFREI-PRINT_EFREI-WEB-450x147.png" alt="efrei" height="80" style="vertical-align: middle;" />
 <img
   src="https://www.ensiie.fr/themes/custom/ensiie/logo.svg"
-  alt="ENSIIE" height="80" style="vertical-align: middle;" />
+  alt="ENSIIE" height="60" style="vertical-align: middle;" />
   <img
   src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="70" style="vertical-align: middle;" />
 <img
@@ -68,7 +68,7 @@ Résultats des années antérieures
   alt="CY TECH Cergy-Pau - Informatique" height="80"
   style="vertical-align: middle;" />
   <img
-  src="https://www.ensea.fr/sites/all/themes/custom/customer/logo.png"
+  src="https://www.ensea.fr/themes/project/assets/img/svg/ENSEA.svg"
   alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
   <img
   src="https://www.telecom-valley.fr/wp-content/uploads/2023/04/Polytech-Nice-Sophia_annuaire.jpg"
