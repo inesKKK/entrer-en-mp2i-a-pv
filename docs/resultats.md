@@ -39,10 +39,10 @@ Résultats des années antérieures
 ## MPI
 
  des admis aux écoles suivantes :
+  <p style="text-align: center;">
   <img
   src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
   alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
-  <p style="text-align: center;">
       <img
   src="https://ensai.fr/wp-content/themes/ensai/ensai_img/logo.png"
   alt="ensai" height="80" style="vertical-align: middle;" />
