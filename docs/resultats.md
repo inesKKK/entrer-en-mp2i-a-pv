@@ -85,6 +85,9 @@ Résultats des années antérieures
   <img
   src="https://www.epita.fr/wp-content/themes/epita-refonte-theme/assets/images/logo-epita.svg" alt="epita" height="80"
   style="vertical-align: middle;" />
+  <img
+  src="https://www.estaca.fr/wp-content/themes/estaca/dist/images/logo-estaca_225f1778.svg"
+  alt="estaca" height="80" style="vertical-align: middle;background-color:blue" />
   </p>
 
 
@@ -114,9 +117,9 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   apprentissage), 2 Telecom Nancy en 
   apprentissage, 1 Phelma, 1 IMAC, 1
   ENSIEE, 2 ENSEIRB-Matmeca, 1 CY TECH, 1 INSA Lyon, 1 epita, 1
-  Polytech Nice, 1 ENSEA, 1 ISUP, 1 élève a choisi la licence d'informatique
-  de Sorbonne Univ, 2 celle de mathématique et 4 élèves ont fait le
-  choix de la 5/2
+  Polytech Nice, 1 ENSEA, 1 ISUP, 1 estaca en alternance, 1 élève a
+  choisi la licence d'informatique de Sorbonne Univ, 2 celle de
+  mathématique et 4 élèves ont fait le choix de la 5/2
 
 
 ## 2023
