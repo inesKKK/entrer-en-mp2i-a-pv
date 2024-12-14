@@ -2,6 +2,10 @@
 <h1><span style="vertical-align: middle;">La filière MP2I / MPI / MPI* du lycée</span> <img src="images/logo.png" alt="Paul Valéry" width="200" style="vertical-align: middle;" /></h1>
 </div>
 
+Les <a href="https://www.cpge-pv.fr/index.html#jpo">journées portes
+ouvertes 2025</a> auront lieu le samedi 25 janvier après-midi (plus de
+renseignements en suivant le lien).
+
 **Résultats au concours.**
 
 [années précédentes](resultats.md)
