@@ -6,74 +6,8 @@ Les <a href="https://www.cpge-pv.fr/index.html#jpo">journées portes
 ouvertes 2025</a> auront lieu le samedi 25 janvier après-midi (plus de
 renseignements en suivant le lien).
 
-**Résultats au concours.**
+**[Résultats au concours.](resultats.md)**
 
-[années précédentes](resultats.md)
-
-effectif 2023-2024 : 10 MPI* / 25 MPI
-
-(résultats mis au fur et à mesure des arrivées)
-
-* MPI\* :
-  * admissibles : 1 ENS Rennes, 1 ENS Rennes en math sur dossier, 1
-    ENS Rennes info sur dossier, 100%
-    CCINP, 40% CCMP, 100% MT, Centrale : CS 1/1, Lyon 2/2, Lille et
-    Nantes 2/3
-  * des admis à (incomplet) :<br />
-  <img
-  src="https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo.png"
-  alt="CentraleSupelec" height="80" style="vertical-align: middle;" />
-  <img
-  src="https://centralelille.fr/wp-content/uploads/2019/07/Centrale-Lille.png"
-  alt="Centrale Lille" height="80" style="vertical-align: middle;" />
-  <img
-  src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
-  alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
-    <img src="https://ensimag.grenoble-inp.fr/uas/alias2/LOGO/Grenoble+INP+-+Ensimag+%28couleur%2C+RVB%2C+120px%29.png" alt="ensimag" height="80" style="vertical-align: middle;" />
-
-* MPI :
-  * admissibles : 60% CCINP, 43% MT, Centrale : SupOptique 1/5,
-    Polytech 70%
-  * 1 admis sur le BECEAS
-  * admissions en alternance : 1 Telecom Nancy, 1 Telecom SudParis
-  * des admis à (incomplet) :<br />
-  <img
-  src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
-  alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
-<img
-  src="https://www.ensiie.fr/wp-content/uploads/2018/04/ENSIIE01.png"
-  alt="ENSIIE" height="80" style="vertical-align: middle;" />
-  <img
-  src="https://enseirb-matmeca.bordeaux-inp.fr/sites/default/files/upload/Logos/2021/logo_em.svg" alt="Bordeaux INP - ENSEIRB-MATMECA Télecom." height="70" style="vertical-align: middle;" />
-<img
-  src="https://phelma.grenoble-inp.fr/uas/alias22/LOGO/Grenoble+INP+-+Phelma+%28couleur%2C+RVB%2C+120px%29.png" alt="phelma"
- height="70" style="vertical-align: middle;" />
-<img
-  src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
-  alt="CY TECH Cergy-Pau - Informatique" height="80"
-  style="vertical-align: middle;" />
-  <img
-  src="https://www.ensea.fr/sites/all/themes/custom/customer/logo.png"
-  alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
-  <img
-  src="https://www.telecom-valley.fr/wp-content/uploads/2023/04/Polytech-Nice-Sophia_annuaire.jpg"
-  alt="Polytech Nice-Sophia - Informatique" height="80"
-  style="vertical-align: middle;" />
-  <img
-  src="https://www.insa-lyon.fr/sites/all/themes/insa/logo.png"
-  alt="INSA Lyon" height="80"
-  style="vertical-align: middle;" />
-  <img
-  src="https://polytech.univ-lyon1.fr/uas/polytech/LOGO/UDL_logo_blanc-01+%282%29.png"
-  alt="Polytech Lyon informatique" height="80"
-  style="vertical-align: middle;" />
-  <img
-  src="https://isup.sorbonne-universite.fr/sites/default/files/styles/930xauto/public/media/2021-04/logo-ISUP.png"
-  alt="ISUP" height="80"
-  style="vertical-align: middle;" />
-  <img
-  src="https://www.epita.fr/wp-content/themes/epita-refonte-theme/assets/images/logo-epita.svg" alt="epita" height="80"
-  style="vertical-align: middle;" />
 
 ## La filière.
 
