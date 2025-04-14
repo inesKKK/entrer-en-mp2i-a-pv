@@ -3,8 +3,26 @@
 </div>
 
 Les <a href="https://www.cpge-pv.fr/index.html#jpo">journées portes
-ouvertes 2025</a> auront lieu le samedi 25 janvier après-midi (plus de
+ouvertes 2025</a> ont eu lieu le samedi 25 janvier après-midi (plus de
 renseignements en suivant le lien).
+
+
+## Temps de transport et éloignement
+
+* L'idéal est de ne pas avoir plus d'une heure de transport au quotidien
+(aller+retour). Au-delà de 1h30, la fatigue impactera négativement et de
+façon certaine votre bien-être et vos résultats, nous vous conseillons
+dans ce cas d'opter pour une formation plus proche du lieu d'habitation.
+* Nous avons quelques places à l'internat de la réussite Jean Zay, mais
+elles se comptent sur les doigts d'une main. Habiter seul à 17 ou 18 ans,
+sauf situation familiale particulière, peut être difficile. Ne négligez
+pas cet aspect : l'euphorie de la rentrée laissera place aux repas
+solitaires, à la gestion du quotidien et aux petits tracas de tous les
+jours, qu'il faudra gérer sans personne, tout comme les éventuels problèmes
+de santé. L'équipe pédagogique reçoit régulièrement les élèves
+concernés, mais elle ne peut remplacer la famille.
+
+
 
 **[Résultats au concours.](resultats.md)**
 
