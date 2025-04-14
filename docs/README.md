@@ -22,7 +22,7 @@ jours, qu'il faudra gérer sans personne, tout comme les éventuels problèmes
 de santé. L'équipe pédagogique reçoit régulièrement les élèves
 concernés, mais elle ne peut remplacer la famille.
 
-
+--------
 
 **[Résultats au concours.](resultats.md)**
 
