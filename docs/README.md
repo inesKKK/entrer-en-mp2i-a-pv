@@ -73,17 +73,7 @@ blanc</span>
 
 1. Se reposer et profiter du soleil.
 
-2. Lire <a href="https://www.education.gouv.fr/bo/2024/Hebdo29/ESRS2418417A">les livres du programme de Français-Philosophie</a>. Au programme
-   en 2024-2025 (attention : le programme ne contient que le thème 2):
-Individu et communauté
-
-    * Eschyle, _Les Suppliantes et Les sept contre Thèbes_.
-    * Spinoza, _Traité théologico-politique_, sections 16 à 20.
-    * Edith Wharton, _Le temps de l’innocence_
-     
-     Les <a
-     href="https://cahier-de-prepa.fr/mp2i-pv/download?id=1859">conseils
-     de l'enseignant</a> (mis à jour pour 2024-2025).
+2. Lire les livres du programme de Français-Philosophie. (lien à venir)
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
@@ -99,7 +89,7 @@ Individu et communauté
    septembre.
    
    <br /><br />
-   À noter qu'il faudra aussi s'[inscrire au lycée](https://pia.ac-paris.fr/serail/jcms/s2_3459337/fr/inscriptions-et-reinscriptions-en-cpge) à un moment
+   À noter qu'il faudra aussi s'inscrire au lycée à un moment
    donné.
 
 <a
