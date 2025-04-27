@@ -100,4 +100,4 @@ href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-pre
 target="_blank">reportage onisep</a>
 / <a href="https://prepas.org/" target="_blank">prepas.org</a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fineskkk.github.io%2Fentrer-en-mp2i-a-pv%2F&count_bg=%233684C5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="http://www.mon-compteur.fr"><img src="http://www.mon-compteur.fr/html_c01genv2-244296-3" border="0" /></a>
