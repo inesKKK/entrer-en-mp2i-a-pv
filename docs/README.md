@@ -36,7 +36,7 @@ Année en cours (2025 - mises à jour au fur et à mesure) :
 
 
 
-**[Résultats au concours.](resultats.md) des autres années**
+**[Résultats au concours](resultats.md) des autres années**
 
 
 ## La filière.
