@@ -24,7 +24,19 @@ concernés, mais elle ne peut remplacer la famille.
 
 --------
 
-**[Résultats au concours.](resultats.md)**
+## Résultats aux concours
+
+Année en cours (2025 - mises à jour au fur et à mesure) :
+
+### MPI\*
+
+### MPI
+* admissions sur dossier : 1 Telecom Nancy en FISEA
+
+
+
+
+**[Résultats au concours.](resultats.md) des autres années**
 
 
 ## La filière.
