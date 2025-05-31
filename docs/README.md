@@ -29,7 +29,6 @@ concernés, mais elle ne peut remplacer la famille.
 Année en cours (2025 - mises à jour au fur et à mesure) :
 
 ### MPI\*
-* admissibilités : 1 ENS Lyon
 
 ### MPI
 * admissions sur dossier : 1 Telecom Nancy en FISEA
