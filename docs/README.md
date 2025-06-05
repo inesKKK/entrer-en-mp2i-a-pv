@@ -86,7 +86,13 @@ blanc</span>
 
 1. Se reposer et profiter du soleil.
 
-2. Lire les livres du programme de Français-Philosophie. (lien à venir)
+2. Lire les livres du [programme de
+   Français-Philosophie](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2025/Hebdo23/MENS2514209A).
+   * *La connaissance de la vie*, « Introduction : La pensée et le
+     vivant », « I. Méthode », « III. Philosophie – chapitres II, III,
+     IV et V » (Georges Canguilhem)
+   * *Vingt mille lieues sous les mers* (Jules Verne)
+   * *Le Mur invisible* (Marlen Haushofer) – Traduction de Liselotte Bodo et Jacqueline Chambon
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
