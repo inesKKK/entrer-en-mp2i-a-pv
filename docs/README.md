@@ -29,11 +29,15 @@ concernés, mais elle ne peut remplacer la famille.
 Année en cours (2025 - mises à jour au fur et à mesure) :
 
 ### MPI\* 
-* (effectif : 16)
-* admissibilités : 1 ENS Lyon, 10 Mines-Ponts
+
+(effectif : 17)
+
+* admissibilités : 1 ENS Lyon, 10 Mines-Ponts, 1 CentraleSupelec
 
 ### MPI 
-* (effectif : 18)
+
+(effectif : 17)
+
 * admissions sur dossier : 1 Telecom Nancy en FISEA
 
 
