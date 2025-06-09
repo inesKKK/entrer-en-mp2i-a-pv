@@ -117,7 +117,7 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
 * bilan des intégrations : 2 Telecom SudParis (dont 1 en
   apprentissage), 2 Telecom Nancy en 
   FISEA, 1 Phelma, 1 IMAC, 1
-  ENSIEE, 2 ENSEIRB-Matmeca, 1 CY TECH, 1 INSA Lyon, 1 epita, 1
+  ENSIIE, 2 ENSEIRB-Matmeca, 1 CY TECH, 1 INSA Lyon, 1 epita, 1
   Polytech Nice, 1 ENSEA, 1 ISUP, 1 estaca en alternance, 1 élève a
   choisi la licence d'informatique de Sorbonne Univ, 2 celle de
   mathématique et 4 élèves ont fait le choix de la 5/2
