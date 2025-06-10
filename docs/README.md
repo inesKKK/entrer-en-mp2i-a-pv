@@ -39,7 +39,7 @@ Année en cours (2025 - mises à jour au fur et à mesure) :
 (effectif : 17)
 
 * admissibilités : 7 Mines-Telecom
-* admissions sur dossier : 1 Telecom Nancy en FISEA
+* admissions sur dossier : 2 Telecom Nancy en FISEA
 
 
 
