@@ -32,13 +32,14 @@ Année en cours (2025 - mises à jour au fur et à mesure) :
 
 (effectif : 17)
 
-* admissibilités : 1 ENS Lyon, 10 Mines-Ponts + 7 Mines-Telecom, 1 CentraleSupelec + 2 Centrale Lyon
+* admissibilités : 1 ENS Lyon, 59% Mines-Ponts + 100% Mines-Telecom, 1
+  CentraleSupelec + 2 Centrale Lyon, 100% CCINP
 
 ### MPI 
 
 (effectif : 17)
 
-* admissibilités : 7 Mines-Telecom
+* admissibilités : 41% Mines-Telecom, 53% CCINP, 83% e3a
 * admissions sur dossier : 2 Telecom Nancy en FISEA
 
 
