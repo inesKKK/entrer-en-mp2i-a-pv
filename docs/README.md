@@ -39,7 +39,7 @@ Année en cours (2025 - mises à jour au fur et à mesure) :
 
 (effectif : 17)
 
-* admissibilités : 41% Mines-Telecom, 53% CCINP, 83% e3a
+* admissibilités : 41% Mines-Telecom, 53% CCINP (70% sur MT+CCINP), 83% e3a
 * admissions sur dossier : 2 Telecom Nancy en FISEA
 
 
