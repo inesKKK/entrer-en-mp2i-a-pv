@@ -116,8 +116,7 @@ blanc</span>
    septembre.
    
    <br /><br />
-   À noter qu'il faudra aussi s'inscrire au lycée à un moment
-   donné.
+   À noter qu'il faudra aussi s'[inscrire au lycée](https://pia.ac-paris.fr/serail/jcms/s1_3752042/fr/inscriptions-cpge) à un moment donné.
 
 <a
 href="https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery"
