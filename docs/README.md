@@ -116,7 +116,9 @@ blanc</span>
    septembre.
    
    <br /><br />
-   À noter qu'il faudra aussi s'[inscrire au lycée](https://pia.ac-paris.fr/serail/jcms/s1_3752042/fr/inscriptions-cpge) à un moment donné.
+   À noter qu'il faudra aussi s'[inscrire au
+   lycée](https://pia.ac-paris.fr/serail/jcms/s1_3752042/fr/inscriptions-cpge)
+   à un moment donné. Et bien sûr [faire sa rentrée](https://pia.ac-paris.fr/serail/jcms/s2_3767326/fr/organisation-de-la-rentree-2025).
 
 <a
 href="https://pia.ac-paris.fr/serail/jcms/s2_1627631/fr/cite-scolaire-paul-valery"
