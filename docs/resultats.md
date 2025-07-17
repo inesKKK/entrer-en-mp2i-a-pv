@@ -11,9 +11,9 @@
   <img
   src="https://edu.ens-rennes.fr/pluginfile.php/1/core_admin/logocompact/300x300/1647609317/ENS%20Rennes%20%281%29.png"
   alt="ENS Rennes" height="80" style="vertical-align: middle;" />
-      <img src="https://www.fondation-mines-telecom.org/wp-content/uploads/2019/06/Logo-T%C3%A9l%C3%A9com-Paris-IP-Paris.png" alt="Telecom Paris" height="80" style="vertical-align: middle;" />
+      <img src="view-source:https://www.telecom-paris.fr/wp-content-EvDsK19/themes/telecom-paristech/assets/images/apple-icon152x152.png" alt="Telecom Paris" height="80" style="vertical-align: middle;" />
   <img
-  src="https://www.centralesupelec.fr/sites/all/themes/cs_theme/medias/common/images/intro/logo.png"
+  src="https://www.centralesupelec.fr/sites/default/files/CentraleSup%20Logo%20H_RVB.png"
   alt="CentraleSupelec" height="80" style="vertical-align: middle;" />
 <img src="https://centralelille.fr/wp-content/uploads/2019/07/Centrale-Lille.png" alt="Centrale Lille" height="80" style="vertical-align: middle;" />
     <img src="https://ensimag.grenoble-inp.fr/uas/alias2/LOGO/Grenoble+INP+-+Ensimag+%28couleur%2C+RVB%2C+120px%29.png" alt="ensimag" height="80" style="vertical-align: middle;" />
@@ -21,7 +21,7 @@
   src="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_T%C3%A9l%C3%A9com_SudParis.svg/383px-Logo_T%C3%A9l%C3%A9com_SudParis.svg.png?20200526100253"
   alt="Télécom SudParis" height="80" style="vertical-align: middle;" />
     <img
-  src="https://www.fondation-mines-telecom.org/wp-content/uploads/2018/10/Mines_Saint_Etienne_IMT_RVB-300x300.png"
+  src="https://www.mines-stetienne.fr/wp-content/themes/emse/images/logo.png"
   alt="Mines de Saint-Etienne" height="80" style="vertical-align:
   middle;" />
   <img
@@ -48,7 +48,7 @@
   src="https://ensai.fr/wp-content/themes/ensai/ensai_img/logo.png"
   alt="ensai" height="80" style="vertical-align: middle;" />
         <img
-  src="https://www.telecom-st-etienne.fr/core/views/29e7396b6b/asset/images/logo.svg"
+  src="https://www.telecom-st-etienne.fr/wp-content/uploads/2025/01/Logo-plein.svg"
   alt="Telecom Saint-Étienne" height="80" style="vertical-align: middle;" />
       <img
     src="https://www.clermont-auvergne-inp.fr/wp-content/uploads/2021/12/logo_isima.png"
