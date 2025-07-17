@@ -11,7 +11,7 @@
   <img
   src="https://edu.ens-rennes.fr/pluginfile.php/1/core_admin/logocompact/300x300/1647609317/ENS%20Rennes%20%281%29.png"
   alt="ENS Rennes" height="80" style="vertical-align: middle;" />
-      <img src="view-source:https://www.telecom-paris.fr/wp-content-EvDsK19/themes/telecom-paristech/assets/images/apple-icon152x152.png" alt="Telecom Paris" height="80" style="vertical-align: middle;" />
+      <img src="https://www.telecom-paris.fr/wp-content-EvDsK19/themes/telecom-paristech/assets/images/apple-icon152x152.png" alt="Telecom Paris" height="80" style="vertical-align: middle;" />
   <img
   src="https://www.centralesupelec.fr/sites/default/files/CentraleSup%20Logo%20H_RVB.png"
   alt="CentraleSupelec" height="80" style="vertical-align: middle;" />
