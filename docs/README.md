@@ -26,25 +26,6 @@ concernés, mais elle ne peut remplacer la famille.
 
 ## Résultats aux concours
 
-Année en cours (2025 - mises à jour au fur et à mesure) :
-
-### MPI\* 
-
-(effectif : 17)
-
-* admissibilités : 1 ENS Lyon, 59% Mines-Ponts + 100% Mines-Telecom, 1
-  CentraleSupelec + 2 Centrale Lyon, 100% CCINP
-
-### MPI 
-
-(effectif : 17)
-
-* admissibilités : 41% Mines-Telecom, 53% CCINP (70% sur MT+CCINP), 83% e3a
-* admissions sur dossier : 2 Telecom Nancy en FISEA
-
-
-
-
 **[Résultats au concours](resultats.md) des autres années**
 
 

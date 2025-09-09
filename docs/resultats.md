@@ -9,6 +9,9 @@
   src="https://www.ens.psl.eu/sites/default/files/inline-images/logo.jpg"
   alt="ENS Paris" height="80" style="vertical-align: middle;" />
   <img
+  src="https://ens-paris-saclay.fr/sites/default/files/ENSPS_UPSAY_logo_couleur_2.png"
+  alt="ENS Paris Saclay" height="80" style="vertical-align: middle;" />
+  <img
   src="https://edu.ens-rennes.fr/pluginfile.php/1/core_admin/logocompact/300x300/1647609317/ENS%20Rennes%20%281%29.png"
   alt="ENS Rennes" height="80" style="vertical-align: middle;" />
       <img src="https://www.telecom-paris.fr/wp-content-EvDsK19/themes/telecom-paristech/assets/images/apple-icon152x152.png" alt="Telecom Paris" height="80" style="vertical-align: middle;" />
@@ -34,6 +37,19 @@
   <img
   src="https://www.ensea.fr/themes/project/assets/img/svg/ENSEA.svg"
   alt="ENSEA Cergy" height="80" style="vertical-align: middle;" />
+<img
+  src="https://www.ensiie.fr/themes/custom/ensiie/logo.svg"
+  alt="ENSIIE" height="60" style="vertical-align: middle;" />
+<img
+  src="https://www.imt-atlantique.fr/sites/default/files/imt-atlantique.webp"
+  alt="IMT Atlantique" height="60" style="vertical-align: middle;" />
+<img 
+	src="https://www.insa-toulouse.fr/wp-content/uploads/2022/12/LOGO-INSA-1.webp"
+	alt="INSA Toulouse" height="60" style="vertical-align: middle;" />
+<img
+  src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
+  alt="CY TECH Cergy-Pau - Informatique" height="80"
+  style="vertical-align: middle;" />
 
 </p>
 
@@ -64,6 +80,12 @@
 <img
   src="https://phelma.grenoble-inp.fr/uas/alias22/LOGO/Grenoble+INP+-+Phelma+%28couleur%2C+RVB%2C+120px%29.png" alt="phelma"
  height="70" style="vertical-align: middle;" />
+ <img
+ src="https://ensem.univ-lorraine.fr/files/2025/01/cropped-lorraine-inp-ensem-couleur.webp"
+ alt="Lorraine INP ENSEM" height="70" style="vertical-align: middle;" />
+<img
+src="https://www.eurecom.fr/themes/custom/eurecom/images/EURECOM_logo_250x118.png"
+alt="eurecom" height="70" style="vertical-align: middle;" />
 <img
   src="https://cytech.cyu.fr/uas/CYTech/LOGO_COULEUR/CY-Tech_coul.png"
   alt="CY TECH Cergy-Pau - Informatique" height="80"
@@ -92,9 +114,45 @@
   </p>
 
 
+## 2025
+
+effectifs 2024-2025 : 17 MPI* / 17 MPI
+
+### MPI\* 
+
+(effectif : 17)
+
+* admissibilités : 1 ENS Lyon, 59% Mines-Ponts + 100% Mines-Telecom, 1
+  CentraleSupelec + 2 Centrale Lyon, 100% CCINP
+* intégrations : 1 CentraleSupelec, 1 CY TECH, 1 ENSIIE, 1
+  ensimag, 1 IMT Atlantique, 1 INSA Toulouse, 2 TelecomParis, 3 Telecom SudParis, 1
+  ENSEEIHT, 1 ENS Paris Saclay (informatique, sur dossier), 2 ont décidé
+  de faire 5/2 (qui étaient respectivement admis à Centrale Lyon et à
+  Mines St Étienne) dont 1 dans un autre établissement, et 1 a décidé
+  de rejoindre l'université
+
+(à noter que notre élève qui a décidé de partir dans un autre établissement a intégré CentraleSupelec)
+
+### MPI 
+
+(effectif : 17)
+
+* admissibilités : 41% Mines-Telecom, 53% CCINP (70% sur MT+CCINP), 83% e3a
+* admissions sur dossier : 2 Telecom Nancy en FISEA
+* intégrations : 1 CY TECH, 1 EFREI Paris, 1 EPITA, 1 ESILV Nantes, 1 eurecom, 1 Phelma,
+  1 Lorraine INP ENSEM, 1 Polytech Nice-Sophia, 3 Telecom Nancy (dont
+  1 sur dossier en FISEA), 1
+  Telecom Saint Etienne, 1 Telecom SudParis en apprentissage, 1 a
+  décidé de rejoindre l'université, 3 ont décidé de faire 5/2 (qui
+  avaient des écoles)
+
+(à noter que notre élève qui a décidé de partir dans un autre établissement a intégré l'ESIEE)
+
+
+
 ## 2024
 
-effectif 2023-2024 : 10 MPI* / 25 MPI
+effectifs 2023-2024 : 10 MPI* / 25 MPI
 
 ### MPI\*
 
@@ -109,7 +167,7 @@ effectif 2023-2024 : 10 MPI* / 25 MPI
   de math de Paris Saclay et 3 élèves ont fait le choix de la 5/2
   (dont 1 dans un autre établissement parisien)
 
-### MPI :
+### MPI
 
 * admissibles : 60% CCINP, 43% MT, Centrale : SupOptique 1/5,
     Polytech 70%
