@@ -3,7 +3,7 @@
 </div>
 
 Les <a href="https://www.cpge-pv.fr/index.html#jpo">journées portes
-ouvertes 2025</a> ont eu lieu le samedi 25 janvier après-midi (plus de
+ouvertes 2026</a> auront lieu le samedi 24 janvier 2026 (plus de
 renseignements en suivant le lien).
 
 
