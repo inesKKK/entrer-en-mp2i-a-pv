@@ -28,7 +28,7 @@ concernés, mais elle ne peut remplacer la famille.
 
 **[Résultats au concours](resultats.md) des autres années**
 
-(Pour 2026, les résultats sonnt ajoutés au fur et à mesure.)
+(Pour 2026, les résultats sont ajoutés au fur et à mesure.)
 
 * MPI\* : 1 admissible ENS Ulm sur dossier (en informatique)
 
