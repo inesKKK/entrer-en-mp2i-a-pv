@@ -30,8 +30,11 @@ concernés, mais elle ne peut remplacer la famille.
 
 (Pour 2026, les résultats sont ajoutés au fur et à mesure.)
 
-* MPI\* : 1 admissible ENS Ulm sur dossier (en informatique)
+#### MPI\*
+* admissibilités : 1 ENS Ulm sur dossier (en informatique)
 
+#### MPI
+* admissions sur dossier (alternance) : 1 ENSEA, 1 UTBM
 
 ## La filière.
 
