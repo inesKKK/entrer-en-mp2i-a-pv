@@ -34,7 +34,7 @@ concernés, mais elle ne peut remplacer la famille.
 * admissibilités : 1 ENS Ulm sur dossier (en informatique)
 
 #### MPI
-* admissions sur dossier (alternance) : 1 ENSEA, 1 UTBM
+* admissions sur dossier : 1 ENSEA (alternance), 1 UTBM
 
 ## La filière.
 
