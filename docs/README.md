@@ -31,7 +31,7 @@ concernés, mais elle ne peut remplacer la famille.
 (Pour 2026, les résultats sont ajoutés au fur et à mesure.)
 
 #### MPI\* (effectif : 14)
-* admissibilités : 1 ENS Ulm sur dossier (en informatique)
+* admissibilités : 1 Polytechnique, 1 ENS (U+L+S+R), 1 ENS Ulm sur dossier (en informatique)
 
 #### MPI (effectif : 19)
 * admissions sur dossier : 1 ENSEA (alternance), 1 UTBM
