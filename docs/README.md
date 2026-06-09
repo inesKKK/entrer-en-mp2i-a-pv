@@ -31,9 +31,12 @@ concernés, mais elle ne peut remplacer la famille.
 (Pour 2026, les résultats sont ajoutés au fur et à mesure.)
 
 #### MPI\* (effectif : 14)
-* admissibilités : 1 Polytechnique, 1 ENS (U+L+S+R), 1 ENS Ulm sur dossier (en informatique)
+* admissibilités : 1 Polytechnique, 1 ENS (U+L+S+R), 1 ENS Ulm sur
+  dossier (en informatique), 5 CCMP, CCINP : 100%
 
 #### MPI (effectif : 19)
+* admissibilités : 1 CCMP, CCINP : 63% (86% parmi ceux qui assistaient
+  au cours de manière exhaustive)
 * admissions sur dossier : 1 ENSEA (alternance), 1 UTBM
 
 ## La filière.
@@ -83,12 +86,10 @@ blanc</span>
 1. Se reposer et profiter du soleil.
 
 2. Lire les livres du [programme de
-   Français-Philosophie](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2025/Hebdo23/MENS2514209A).
-   * *La connaissance de la vie*, « Introduction : La pensée et le
-     vivant », « I. Méthode », « III. Philosophie – chapitres II, III,
-     IV et V » (Georges Canguilhem)
-   * *Vingt mille lieues sous les mers* (Jules Verne)
-   * *Le Mur invisible* (Marlen Haushofer) – Traduction de Liselotte Bodo et Jacqueline Chambon
+   Français-Philosophie](https://www.education.gouv.fr/bo/2026/Hebdo21/ESRS2611873A).
+   * *Ion* (Platon), Traduction de Monique Canto, et *La République*, livre X, 595a-608b (Platon) – Traduction de Georges Leroux ; 
+   * *L’Œuvre* (Émile Zola) ; 
+   * *Un lieu à soi* (Virginia Woolf) – Traduction de Marie Darrieussecq. 
    
 3. Si vous y tenez, faire quelques révisions du programme de lycée, par
    exemple en travaillant <a href="https://colasbd.github.io/cdc/" target="_blank">un peu les
