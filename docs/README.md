@@ -32,9 +32,9 @@ concernés, mais elle ne peut remplacer la famille.
 
 #### MPI\* (effectif : 14)
 * admissibilités : 1 Polytechnique, 1 ENS (U+L+S+R), 1 ENS Ulm sur
-  dossier (en informatique), 5 CCMP, CCINP : 100%
+  dossier (en informatique), 5 CCMP, CCINP : 100%, MT : 100%
 
-#### MPI (effectif : 19)
+#### MPI (effectif : 18)
 * admissibilités : 1 CCMP, CCINP : 63% (86% parmi ceux qui assistaient
   au cours de manière exhaustive)
 * admissions sur dossier : 1 ENSEA (alternance), 1 UTBM
