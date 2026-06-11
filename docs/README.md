@@ -35,8 +35,8 @@ concernés, mais elle ne peut remplacer la famille.
   dossier (en informatique), 5 CCMP, CCINP : 100%, MT : 100%
 
 #### MPI (effectif : 18)
-* admissibilités : 1 CCMP, CCINP : 63% (86% parmi ceux qui assistaient
-  au cours de manière exhaustive)
+* admissibilités : 1 CCMP, CCINP : 66% (86% parmi ceux qui assistaient
+  au cours de manière exhaustive), MT : 33% (resp. 43%)
 * admissions sur dossier : 1 ENSEA (alternance), 1 UTBM
 
 ## La filière.
