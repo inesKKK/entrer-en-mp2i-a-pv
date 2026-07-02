@@ -31,6 +31,7 @@ concernés, mais elle ne peut remplacer la famille.
 (Pour 2026, les résultats sont ajoutés au fur et à mesure.)
 
 #### MPI\* (effectif : 14)
+* admissions : 1 ENS Ulm sur dossier (en informatique)
 * admissibilités : 1 Polytechnique, 1 ENS (U+L+S+R), 1 ENS Ulm sur
   dossier (en informatique), 5 CCMP, CCINP : 100%, MT : 100%
 
