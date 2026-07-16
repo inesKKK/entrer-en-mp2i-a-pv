@@ -32,8 +32,8 @@ concernés, mais elle ne peut remplacer la famille.
 
 #### MPI\* (effectif : 14)
 * admissions : 1 ENS Ulm sur dossier (en informatique), 1 ENS
-  Ulm+Lyon+Paris Saclay sur liste principale (tout ça concernant la
-  même personne)
+  Ulm+Lyon+Paris Saclay sur liste principale, 1 Polytechnique (tout ça
+  concernant la même personne)
 * admissibilités : 1 Polytechnique, 1 ENS (U+L+S+R), 1 ENS Ulm sur
   dossier (en informatique), 5 CCMP, CCINP : 100%, MT : 100%
 
