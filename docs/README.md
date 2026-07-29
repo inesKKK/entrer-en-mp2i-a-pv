@@ -37,7 +37,7 @@ concernés, mais elle ne peut remplacer la famille.
 * admissibilités : 1 Polytechnique, 1 ENS (U+L+S+R), 1 ENS Ulm sur
   dossier (en informatique), 5 CCMP, CCINP : 100%, MT : 100%
 * intégrations : 1 ENS Ulm (élève également admis à Polytechnique), 1
-  TelecomParis, 1 IMT Atlantique, 1 Telecom SudParis
+  TelecomParis, 1 IMT Atlantique, 1 ensimag, 1 Telecom SudParis, 1 INSA Toulouse
 
 #### MPI (effectif : 18)
 * admissibilités : 1 CCMP, CCINP : 66% (86% parmi ceux qui assistaient
