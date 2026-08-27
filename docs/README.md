@@ -46,7 +46,7 @@ concernés, mais elle ne peut remplacer la famille.
   au cours de manière exhaustive), MT : 33% (resp. 43%)
 * admissions sur dossier : 1 ENSEA (alternance), 1 UTBM
 * intégrations : 2 Telecom SudParis, 1 ENSICAEN Informatique, 1 ESIEE,
-  1 ENSEA en alternance
+  1 ENSEIRB-Matmeca, 1 ENSEA en alternance
 
 ## La filière.
 
