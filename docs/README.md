@@ -30,7 +30,7 @@ concernés, mais elle ne peut remplacer la famille.
 
 (Pour 2026, les résultats sont ajoutés au fur et à mesure.)
 
-#### MPI\* (effectif : 14)
+#### MPI\* (effectif : 15)
 * admissions : 1 ENS Ulm sur dossier (en informatique), 1 ENS
   Ulm+Lyon+Paris Saclay sur liste principale, 1 Polytechnique (tout ça
   concernant la même personne)
@@ -39,14 +39,18 @@ concernés, mais elle ne peut remplacer la famille.
 * intégrations : 1 ENS Ulm (élève également admis à Polytechnique), 1
   TelecomParis, 1 ENSTA, 1 IMT Atlantique, 2 ensimag, 2 Telecom
   SudParis, 1 ENSIIE, 1 Telecom Nancy, 1 INSA Toulouse, 1 Bordeaux
-  ENSEIRB-MATMECA
+  ENSEIRB-MATMECA, 1 Telecom Saint Etienne, 2 qui ont choisi de faire
+  5/2 (dont 1 dans un autre établissement)
 
 #### MPI (effectif : 18)
 * admissibilités : 1 CCMP, CCINP : 66% (86% parmi ceux qui assistaient
   au cours de manière exhaustive), MT : 33% (resp. 43%)
 * admissions sur dossier : 1 ENSEA (alternance), 1 UTBM
 * intégrations : 2 Telecom SudParis, 1 ENSICAEN Informatique, 1 ESIEE,
-  1 ENSEIRB-Matmeca, 1 ENSEA en alternance
+  1 ENSEIRB-Matmeca, 1 ENSEA en alternance, ... qui ont choisi de
+  poursuivre à l'université (1 en double licence mécanique/physique,
+  1 licence de mécanique, 2 licence de mathématiques, 1 licence
+  d'informatique), 5 qui font 5/2 (dont 1 dans un autre établissement)
 
 ## La filière.
 
